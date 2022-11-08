@@ -1,0 +1,4 @@
+{
+
+    "connection_string":"postgresql://postgres:docker@localhost:5432/aircraft"
+}
